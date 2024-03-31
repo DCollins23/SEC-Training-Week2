@@ -1,0 +1,32 @@
+div {
+  height: 200px;
+}
+h2 {
+  height: 100px;
+  color: white;
+}
+.view {
+  height: 300px;
+  margin: 10px;
+  background-color: pink;
+}
+
+.height100 {
+  height: 100px;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.darkblue {
+  background-color: darkblue;
+}
+
+.black {
+  background-color: black;
+}
